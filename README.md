@@ -30,4 +30,4 @@ The workflow consists of:
 
 Google Drive links:
 
-[ADD DRIVE LINK HERE]
+https://drive.google.com/drive/folders/1x4FmXtCL6wl7uJXtOD2vJGfL-JpP1pKQ?usp=drive_link
